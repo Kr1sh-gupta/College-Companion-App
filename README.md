@@ -28,3 +28,7 @@ This project is a scalable mobile application for colleges and students. It prov
 1. Clone the repository.
 2. Install dependencies.
 3. Start the development server.
+
+### Architecture 
+![Architecture Scalable](https://raw.githubusercontent.com/Kr1sh-gupta/College-Companion-App/refs/heads/main/architecture-diagram.png)  
+This screen showcases the architecture.  
